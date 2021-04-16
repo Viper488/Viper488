@@ -1,16 +1,23 @@
-### Hi there 👋
+Artur Hamernik
+Student Państwowa Wyższa Szkoła Zawodowa w Tarnowie
+Kierunek: Informatyka
+👨🏻‍💻 About Me
+🔭 I’m currently learning basic rules of writing good code, unit tests
+🎓 I'm going to graduate in 2022
+✍️ For hobbies I'm interested in new computer technologies, games, films, oldschool metal bands
+🛠 Tech Stack
+🌐 Java | Kotlin
+💻 IntelliJ | Android Studio
+🔧 ; Spring | Maven | PostgreSQL | Git
+Basics of:
 
-<!--
-**Viper488/Viper488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript , TypeScript
+HTML/CSS
+C/C++
+Python
+React Native
+Most of studies projects are at my BitBucket: https://bitbucket.org/artur_hamernik/
 
-Here are some ideas to get you started:
+Projects made during classes at the university:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://bitbucket.org/unforgottendebt/ - client Android + server Spring - app made for sharing expenses between users
