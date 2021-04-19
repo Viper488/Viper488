@@ -5,21 +5,28 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭  I’m currently learning basic rules of writing good code, unit tests 
-- 🎓  I'm going to graduate in 2022
-- ✍️  For hobbies I'm interested in new computer technologies, games, films, oldschool metal bands
-<h3>🛠 Tech Stack</h3>
+- I’m currently learning basic rules of writing good code
+- I'm currently looking for a job as a programmer, that will help me develop my skills and gain valuable experience
+- I'm going to graduate in 2022
+- For hobbies I'm interested in new computer technologies, games, movies
 
-- 🌐  Java | Kotlin 
-- 💻  IntelliJ | Android Studio
-- 🔧 ; Spring | Maven | PostgreSQL | Git
-
-Basics of:
-- JavaScript , TypeScript
+<h3>🛠 I feel good at: </h3>
+- Java
 - HTML/CSS
+- Spring | Maven | PostgreSQL | Git
+
+
+<h3>🛠 I am currently learning: </h3>
+- React Native
+- JavaScript
+- TypeScript
+- playing guitar
+
+<h3>🛠 Basics of:</h3>
+- Kotlin 
 - C/C++
 - Python
-- React Native
+- Haskell
 
 Most of the projects that I made while at university are at my BitBucket: https://bitbucket.org/artur_hamernik/
 
