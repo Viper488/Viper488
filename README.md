@@ -15,19 +15,18 @@
 - HTML/CSS <br>
 - Spring | Maven | PostgreSQL | Git <br>
 <br>
-<br>
-<h3>🛠 I am currently learning: </h3><br>
+<h3>🛠 I am currently learning: </h3>
 - React Native<br>
 - JavaScript<br>
 - TypeScript<br>
 - playing guitar<br>
 <br>
-<br>
-<h3>🛠 Basics of:</h3><br>
+<h3>🛠 Basics of:</h3>
 - Kotlin <br>
 - C/C++<br>
 - Python<br>
 - Haskell<br>
+<br>
 
 Most of the projects that I made while at university are at my BitBucket: https://bitbucket.org/artur_hamernik/
 
